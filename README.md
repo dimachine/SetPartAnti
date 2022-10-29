@@ -25,3 +25,6 @@ We start with n=0 (i.e., with the set partition of zero elements), but in OEIS t
 Formal Concept Analysis - Mathematical Foundations. Springer 1999, ISBN 978-3-540-62771-5, pp. I-X, 1-284
 
 * Graham, R.L. Maximum antichains in the partition lattice. The Mathematical Intelligencer 1, 84–86 (1978). https://doi.org/10.1007/BF03023067
+
+
+NB. Any usage of the codes requires the acknowledgment of this repository.
