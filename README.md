@@ -16,7 +16,7 @@ This is a supporing file for OEIS on computation of (maximal) antichains in the 
 #### Comment to Sections 2 and 3.
 
 
-We start with n=0 (i.e., with the set partition of zero elements), but in OEIS the offset is 1, i.e. there the sequences start with n=1.
+We start with n=0 (i.e., with the set partition of zero elements), but in OEIS the respective offset is 1, i.e. there the sequences start with n=1.
 
 
 ## References
